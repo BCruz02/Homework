@@ -13,5 +13,5 @@
 ____
 ### This is an image that inspires me for this cohort
 ##### The image below signifies two things for me. First, it sygnifies being willing to step out of my comfortzone. This is the first time I've ever done anything relating to coding and therefore its somewhat uncomfortable for me. Secondly, it signifies the recillliance to keep on going regardless of failures. I know there will be hic ups and moments of frustrations but I have to keep on picking up those arrows and fireing them towards the bullseye. 
-![Cohort Inspiration](C:\Users\Bcbra\OneDrive\Pictures\Screenshots\SavvyCodersInspo.png)
+![Image](https://github.com/user-attachments/assets/fc9e694c-2269-4826-a02c-a2b7109ae94b)
 
